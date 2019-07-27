@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 using System.IO;//Класс для работы с файлами
-namespace Gureev12
+namespace PowerShell
 {
     class Program
     {

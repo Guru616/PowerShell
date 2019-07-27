@@ -1,0 +1,6 @@
+C:\Users\GURU0\PowerShell\obj\Release\PowerShell.csproj.CoreCompileInputs.cache
+C:\Users\GURU0\PowerShell\bin\Release\PowerShell.exe
+C:\Users\GURU0\PowerShell\bin\Release\PowerShell.pdb
+C:\Users\GURU0\PowerShell\obj\Release\PowerShell.csprojAssemblyReference.cache
+C:\Users\GURU0\PowerShell\obj\Release\PowerShell.exe
+C:\Users\GURU0\PowerShell\obj\Release\PowerShell.pdb

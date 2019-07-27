@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using System.IO;//Класс для работы с файлами
 using System.Diagnostics;//Класс для работы Process
-namespace Gureev12
+namespace PowerShell
 {
 class Commands
     {
