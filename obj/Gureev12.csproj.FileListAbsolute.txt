@@ -1,0 +1,12 @@
+C:\Documents and Settings\у\Мои документы\Visual Studio 2005\Projects\Gureev12\bin\Debug\Gureev12.exe
+C:\Documents and Settings\у\Мои документы\Visual Studio 2005\Projects\Gureev12\bin\Debug\Gureev12.pdb
+C:\Documents and Settings\у\Мои документы\Visual Studio 2005\Projects\Gureev12\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\у\Мои документы\Visual Studio 2005\Projects\Gureev12\obj\Debug\Gureev12.exe
+C:\Documents and Settings\у\Мои документы\Visual Studio 2005\Projects\Gureev12\obj\Debug\Gureev12.pdb
+e:\Итог(CMD)\obj\Debug\Gureev12.exe
+e:\Итог(CMD)\obj\Debug\Gureev12.pdb
+e:\Итог(CMD)\bin\Debug\Gureev12.exe
+e:\Итог(CMD)\bin\Debug\Gureev12.pdb
+e:\Итог(CMD)\obj\Debug\ResolveAssemblyReference.cache
+F:\Итог(CMD)\obj\Debug\Gureev12.exe
+F:\Итог(CMD)\obj\Debug\Gureev12.pdb
